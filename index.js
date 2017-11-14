@@ -15,9 +15,9 @@ function divide(a,b) {
   number = a / b;
   return number;
 }
-function increment(a) {
+function inc(a) {
   number = a + 1
 }
-function decrement(a) {
+function dec(a) {
   number = a - 1
 }
